@@ -1,5 +1,6 @@
 // Copyright 2023
 #include <source.h>
+#include <logger.h>
 using namespace BitsDevops;
 
 int main(int argc, char** argv)
@@ -9,6 +10,8 @@ int main(int argc, char** argv)
 		// log something here
 		
 		//do the database connection
+		
+		//Feature logging improvement
 		
 	    return 1;
 }
